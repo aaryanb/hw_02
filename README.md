@@ -1,11 +1,11 @@
 # hw_02
 For HW#2 of CSCI040
 
-#Aaryan's Visualizations!
+# Aaryan's Visualizations!
 
 
 ## Project Instructions
-* [Project Instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)
+* [Project Instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02) return
 
 
 
