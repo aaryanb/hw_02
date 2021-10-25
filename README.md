@@ -5,7 +5,7 @@ For HW#2 of CSCI040
 
 
 ## Project Instructions
-* [Project Instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02) return
+* [Project Instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)
 
 
 
