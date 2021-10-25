@@ -27,7 +27,7 @@ alt="india_china_gdp_comparison"/>
 1. **Data Source #1**: [USA's GDP JSON](https://api.worldbank.org/v2/countries/USA/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 2. **Data Source #2**: [China's GDP JSON](https://api.worldbank.org/v2/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 
-We are looking at the effect of USA's increase in GDP on China's GDP, and they seem to be positively correlated. This means that as the U.S's GDP increased, so dic China's GDP. This could be due to increased global trade and/or increased trade with eachother. We can see that as the U.S went from 15 to 20 trillion in GDP (1.3 times increase), China's GDP increased 4.6 times. This shows that the positive correlation between the U.S and Chinese economies is stronger in recent history.
+We are looking at the effect of USA's increase in GDP on China's GDP, and they seem to be positively correlated. This means that as the U.S's GDP increased, so dic China's GDP. This could be due to increased global trade and/or increased trade with eachother. We can see that as the U.S went from 15 to 20 trillion in GDP (1.3 times increase), China's GDP increased 4.6 times. This shows that the positive correlation between the U.S and Chinese economies is steeper in recent history.
 
 <img src="usa_china_gdp_comparison.png" 
 alt="usa_china_gdp_comparison"/>
