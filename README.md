@@ -13,6 +13,6 @@ alt="india_china_gdp_comparison"/>
 
 ## USA vs China GDP Comparison (Scatter Plot)
 <img src="usa_china_gdp_comparison.png" 
-alt="usa_china_gdp_comparison" width="240" height="180" border="10" />
+alt="usa_china_gdp_comparison" width="500" height="500" />
 
 
